@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+body {
+    background-color: #1b1b1b;
+    color: #f5f5f5;
+    line-height: 1.6;
+}
+#links-container{
+    display: flex;
+    flex-direction: column;
+    background-color: #3d3b3b;
+    border-radius: 10px;
+    height: 6vh;
+}
